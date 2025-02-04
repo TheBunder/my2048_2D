@@ -1,0 +1,14 @@
+G:\C# code\my2048_2D\my2048_2D\bin\Debug\my2048_2D.exe.config
+G:\C# code\my2048_2D\my2048_2D\bin\Debug\my2048_2D.exe
+G:\C# code\my2048_2D\my2048_2D\bin\Debug\my2048_2D.pdb
+G:\C# code\my2048_2D\my2048_2D\obj\Debug\my2048_2D.csproj.AssemblyReference.cache
+G:\C# code\my2048_2D\my2048_2D\obj\Debug\my2048_2D.csproj.CoreCompileInputs.cache
+G:\C# code\my2048_2D\my2048_2D\obj\Debug\my2048_2D.exe
+G:\C# code\my2048_2D\my2048_2D\obj\Debug\my2048_2D.pdb
+E:\C# code\my2048_2D\my2048_2D\bin\Debug\my2048_2D.exe.config
+E:\C# code\my2048_2D\my2048_2D\bin\Debug\my2048_2D.exe
+E:\C# code\my2048_2D\my2048_2D\bin\Debug\my2048_2D.pdb
+E:\C# code\my2048_2D\my2048_2D\obj\Debug\my2048_2D.csprojAssemblyReference.cache
+E:\C# code\my2048_2D\my2048_2D\obj\Debug\my2048_2D.csproj.CoreCompileInputs.cache
+E:\C# code\my2048_2D\my2048_2D\obj\Debug\my2048_2D.exe
+E:\C# code\my2048_2D\my2048_2D\obj\Debug\my2048_2D.pdb
